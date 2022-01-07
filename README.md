@@ -40,7 +40,8 @@ Ou no celular, veja este vídeo, como já havia falado, aplica-se também a down
 
 **Atenção!**
 Se em seu celular não aparecer direto os arquivos para download, é só clicar em "View Code"
-https://user-images.githubusercontent.com/69695537/148454011-39ec666c-bca9-4905-9f05-6b8a584fb901.mp4
+
+https://user-images.githubusercontent.com/69695537/148604512-1e775953-5d4b-4979-af8c-9e69e91413ba.mp4
 
 Aplica-se ao download do .AIA
 
