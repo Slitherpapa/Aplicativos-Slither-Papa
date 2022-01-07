@@ -58,7 +58,7 @@ Aplica-se ao download do .AIA
 ---
 ![Screenshot_20220106-145017](https://user-images.githubusercontent.com/69695537/148599187-1f8aaee4-19a1-447a-9d96-dbc051ced393.jpg)
 ---
-![Screenshot_20220106-145022](https://user-images.githubusercontent.com/69695537/148599205-69adfaab-ece2-41cd-9716-7a24f8c3cfd3.j# pg)
+![Screenshot_20220106-145022](https://user-images.githubusercontent.com/69695537/148599205-69adfaab-ece2-41cd-9716-7a24f8c3cfd3.jpg)
 
 # Lanterna
 ![Screenshot_20220107-165225](https://user-images.githubusercontent.com/69695537/148599726-16675a11-e57f-4858-857b-47e8159a37cb.jpg)
