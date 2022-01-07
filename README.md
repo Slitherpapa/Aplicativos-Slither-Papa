@@ -24,10 +24,12 @@ Depois clique em no aplicativo que quer baixar, por exemplo o Office, então des
 ![Captura de tela 2022-01-07 164610](https://user-images.githubusercontent.com/69695537/148600163-71f2b4ad-bf1e-4b28-9806-4c89c1c3088f.png)
 
 Se esta página estiver assim
-![Captura de tela 2022-01-05 090226](https://user-images.githubusercontent.com/69695537/148600638-017b80d0-d63d-45de-85fc-3b265cdc1feb.png)
+![Captura de tela 2022-01-07 164610](https://user-images.githubusercontent.com/69695537/148600866-e4e09c0a-0d37-4fd1-aa4f-c63e56d714cf.png)
+![Captura de tela 2022-01-07 170224](https://user-images.githubusercontent.com/69695537/148600844-6f349ea2-daef-4c98-93cd-c39bc9e7c732.png)
 
-Clique em "Assets" para expandir
-![Captura de tela 2022-01-05 090226_LI](https://user-images.githubusercontent.com/69695537/148600709-db002caa-858d-45d9-849e-39cae2ed1a64.jpg)
+
+Clique em "Assets" para expandir, e conclua as etapas
+![Captura de tela 2022-01-07 170248](https://user-images.githubusercontent.com/69695537/148600849-765a623f-bb2c-4175-a544-681552209a46.png)
 
 Depois salve o arquivo
 ![Captura de tela 2022-01-06 175650](https://user-images.githubusercontent.com/69695537/148452626-38f6d7c3-1263-4379-96b0-efc69ab01e5a.png)
