@@ -74,3 +74,4 @@ Aplica-se ao download do .AIA
 # Leitor de código QR
 ![Screenshot_20220107-165325](https://user-images.githubusercontent.com/69695537/148599786-e0e03860-437e-4c3e-9c82-92368b1f33bc.jpg)
 
+Mais imagens futuramente!!!
