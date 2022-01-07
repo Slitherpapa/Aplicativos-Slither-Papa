@@ -36,8 +36,10 @@ Depois salve o arquivo
 
 Pronto!
 
-Ou no celular, veja este vídeo
+Ou no celular, veja este vídeo, como já havia falado, aplica-se também a downloads de outros aplicativos, por exemplo, o Office.
 
+**Atenção!**
+Se em seu celular não aparecer direto os arquivos para download, é só clicar em "View Code"
 https://user-images.githubusercontent.com/69695537/148454011-39ec666c-bca9-4905-9f05-6b8a584fb901.mp4
 
 Aplica-se ao download do .AIA
