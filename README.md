@@ -21,7 +21,7 @@ Entre na página inicial e clique na aba "<>Code", e depois clique em Releases
 ![Captura de tela 2022-01-06 175032](https://user-images.githubusercontent.com/69695537/148452371-d55bb17b-2c94-4124-be06-988eea2166d6.png)
 
 Depois clique em no aplicativo que quer baixar, por exemplo o Office, então desço a página e procuro pela versão mais recente do Office Slither Papa (Aplica-se a outros downlaod da página, como .AIAs)
-![Captura de tela 2022-01-06 175130](https://user-images.githubusercontent.com/69695537/148452535-78965eb6-b4a9-4db2-9ec0-93a86c7f1a51.png)
+![Captura de tela 2022-01-07 164610](https://user-images.githubusercontent.com/69695537/148600163-71f2b4ad-bf1e-4b28-9806-4c89c1c3088f.png)
 
 Depois salve o arquivo
 ![Captura de tela 2022-01-06 175650](https://user-images.githubusercontent.com/69695537/148452626-38f6d7c3-1263-4379-96b0-efc69ab01e5a.png)
