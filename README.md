@@ -1,4 +1,4 @@
-# Aplicativos-Sliither-Papa
+# Aplicativos-Slither-Papa
 
 Aqui é lugar onde encontra todos os apps Slither Papa!
 
