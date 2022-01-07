@@ -13,6 +13,15 @@ Você poderá baixar utilizando estes passos a baixo
 
 Aplica-se ao download do .AIA também
 
+## Download do .AIA
+Você é livre para baixar e modificar (seguindo as regras) o Navegador Slither Papa, como também, é o único modificavel. 
+
+Lembrando que o app é de minha autoria, ou seja, você pode inspirar-se no app, ou criando uma versão melhor e publicando na parte "issues" aqui no GitHub. 
+
+Como pode ver, o arquivo está em ".slitheraia", que foi uma forma de segurança minha para distribuição, mas você pode renomear depois para ".aia" novamente.
+
+Para fazer o download, faça o mesmo processo que fez para baixar os aplicativos, só que se atentando em baixar o ".slitheraia".
+
 **Atenção**:
 
 Estas imagens se aplicam-se aos downloads de TODOS os apps
