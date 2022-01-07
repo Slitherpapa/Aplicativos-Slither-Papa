@@ -3,10 +3,10 @@
 Aqui é lugar onde encontra todos os apps Slither Papa!
 
 ## Updates
-Este app poderá receber updates tanto visual, quanto a de seu uso. Você pode checar meus vídeos mais recentes para checar se há algum update.
+Este aplicativo poderá receber updates tanto visuais, quanto a de seu uso. Você pode checar meus vídeos mais recentes para checar se há algum update.
 
 ## Criação
-O app foi desenvolvido com um IDE chamado Kodular, que e um low-code muito bom, recomendo usar.
+O app foi desenvolvido com um IDE chamado Kodular, que e um low-code ótimo, recomendo usar.
 
 ## Download do aplicativo
 Você poderá baixar utilizando estes passos a baixo
@@ -20,7 +20,7 @@ Estas imagens se aplicam-se aos downloads de TODOS os apps
 Entre na página inicial e clique na aba "<>Code", e depois clique em Releases
 ![Captura de tela 2022-01-06 175032](https://user-images.githubusercontent.com/69695537/148452371-d55bb17b-2c94-4124-be06-988eea2166d6.png)
 
-Depois clique em no aplicativo que quer baixar, por exemplo o Office, então desço a página e procuro pela versão mais recente do Office Slither Papa (Aplica-se a outros downloads da página, como .AIAs)
+Depois clique em no aplicativo que quer baixar, por exemplo, o Office, então desço a página e procuro pela versão mais recente do Office Slither Papa (Aplica-se a outros downloads da página, como .AIAs)
 ![Captura de tela 2022-01-07 164610](https://user-images.githubusercontent.com/69695537/148600163-71f2b4ad-bf1e-4b28-9806-4c89c1c3088f.png)
 
 Se esta página estiver assim
@@ -58,4 +58,4 @@ Aplica-se ao download do .AIA
 ---
 ![Screenshot_20220105-085018 1](https://user-images.githubusercontent.com/69695537/148216229-fe3547c5-3869-413d-bbd8-acda39a87507.jpg)
 ---
-![Screenshot_20220105-085027 1](https://user-images.githubusercontent.com/69695537/148216252-666439e6-49be-4c1b-a152-3de603d
+Mais fotos no futúro!
