@@ -9,7 +9,7 @@ Este app poderá receber updates tanto visual, quanto a de seu uso. Você pode c
 O app foi desenvolvido com um IDE chamado Kodular, que e um low-code muito bom, recomendo usar.
 
 ## Download do aplicativo
-Você poderar baixar utilizando estes passos a baixo
+Você poderá baixar utilizando estes passos a baixo
 
 Aplica-se ao download do .AIA também
 
@@ -58,23 +58,4 @@ Aplica-se ao download do .AIA
 ---
 ![Screenshot_20220105-085018 1](https://user-images.githubusercontent.com/69695537/148216229-fe3547c5-3869-413d-bbd8-acda39a87507.jpg)
 ---
-![Screenshot_20220105-085027 1](https://user-images.githubusercontent.com/69695537/148216252-666439e6-49be-4c1b-a152-3de603dfd52c.jpg)
----
-![Screenshot_20220105-085050 1](https://user-images.githubusercontent.com/69695537/148216275-f8b54f66-eb0a-4897-882c-f329e6b90249.jpg)
-
-# Office
-![Screenshot_20220106-145005](https://user-images.githubusercontent.com/69695537/148599160-ab9f8a4d-daf2-481a-8180-4b8f1ae21e27.jpg)
----
-![Screenshot_20220106-145012](https://user-images.githubusercontent.com/69695537/148599173-8100b183-eccd-4e2b-992d-76407d070cd1.jpg)
----
-![Screenshot_20220106-145017](https://user-images.githubusercontent.com/69695537/148599187-1f8aaee4-19a1-447a-9d96-dbc051ced393.jpg)
----
-![Screenshot_20220106-145022](https://user-images.githubusercontent.com/69695537/148599205-69adfaab-ece2-41cd-9716-7a24f8c3cfd3.jpg)
-
-# Lanterna
-![Screenshot_20220107-165225](https://user-images.githubusercontent.com/69695537/148599726-16675a11-e57f-4858-857b-47e8159a37cb.jpg)
-
-# Leitor de código QR
-![Screenshot_20220107-165325](https://user-images.githubusercontent.com/69695537/148599786-e0e03860-437e-4c3e-9c82-92368b1f33bc.jpg)
-
-Mais imagens futuramente!!!
+![Screenshot_20220105-085027 1](https://user-images.githubusercontent.com/69695537/148216252-666439e6-49be-4c1b-a152-3de603d
