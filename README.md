@@ -17,7 +17,7 @@ Aplica-se ao download do .AIA também
 
 Estas imagens se aplicam-se aos downloads de TODOS os apps
 
-Entre na página inicial e clique na aba "<>Code", e depois clique em Releases
+Entre na página inicial e clique na aba "<>Code", e depois clique em "Releases"
 ![Captura de tela 2022-01-06 175032](https://user-images.githubusercontent.com/69695537/148452371-d55bb17b-2c94-4124-be06-988eea2166d6.png)
 
 Depois clique em no aplicativo que quer baixar, por exemplo, o Office, então desço a página e procuro pela versão mais recente do Office Slither Papa (Aplica-se a outros downloads da página, como .AIAs)
