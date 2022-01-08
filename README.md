@@ -52,7 +52,7 @@ Lembrando que o app é de minha autoria, ou seja, se copiar, pode receber "Strik
 
 Como pode ver, o arquivo está em ".slitheraia", que foi uma forma de segurança minha para distribuição, mas você pode renomear depois para ".aia" novamente.
 
-Para fazer o download, faça o mesmo processo que fez para baixar os aplicativos, só que se atentando em baixar o ".slitheraia".
+Para fazer o download, faça o mesmo processo que fez para baixar os aplicativos, só que atentando-se em baixar o ".slitheraia".
 
 ## Capturas de tela
 
