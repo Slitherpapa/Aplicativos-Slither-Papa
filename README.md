@@ -15,7 +15,7 @@ Aplica-se ao download do .AIA também.
 
 **Atenção**:
 
-Estas imagens se aplicam-se aos downloads de TODOS os apps.
+Estas imagens aplicam-se aos downloads de TODOS os apps.
 
 Entre na página inicial e clique na aba "<>Code", e depois clique em "Releases".
 ![Captura de tela 2022-01-06 175032](https://user-images.githubusercontent.com/69695537/148452371-d55bb17b-2c94-4124-be06-988eea2166d6.png)
@@ -47,7 +47,7 @@ Você é livre para baixar e modificar (seguindo as regras) o Navegador Slither 
 
 Lembrando que o app é de minha autoria, ou seja, se copiar, pode receber "Strike". Você pode inspirar-se no app, ou criando uma versão melhor e publicando na parte "issues" aqui no GitHub. 
 
-Como pode ver, o arquivo está em ".slitheraia", que foi uma forma de segurança minha para distribuição, mas você pode renomear depois para ".aia" novamente.
+Como pode ver, o arquivo está em ".slitheraia", que foi uma forma de segurança minha para distribuição, mas você pode renomear depois para ".aia".
 
 Para fazer o download, faça o mesmo processo que fez para baixar os aplicativos, só que atentando-se em baixar o ".slitheraia".
 
