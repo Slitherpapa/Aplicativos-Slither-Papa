@@ -56,7 +56,7 @@ Para fazer o download, faça o mesmo processo que fez para baixar os aplicativos
 
 ## Capturas de tela
 
-# Navegador
+### Navegador
 ![Screenshot_20220105-084955 1](https://user-images.githubusercontent.com/69695537/148215944-a63fedb7-093a-4893-9c48-ec14191cfe3b.jpg)
 ---
 ![Screenshot_20220105-084958 1](https://user-images.githubusercontent.com/69695537/148216053-b64a08b0-b80b-4140-b540-02e2ce9e4af8.jpg)
@@ -66,5 +66,11 @@ Para fazer o download, faça o mesmo processo que fez para baixar os aplicativos
 ![Screenshot_20220105-085014 1](https://user-images.githubusercontent.com/69695537/148216180-a5d72562-c5e9-4195-8f05-0b03aca9aa04.jpg)
 ---
 ![Screenshot_20220105-085018 1](https://user-images.githubusercontent.com/69695537/148216229-fe3547c5-3869-413d-bbd8-acda39a87507.jpg)
----
+
+### Lanterna
+![Screenshot_20220107-165225](https://user-images.githubusercontent.com/69695537/148659990-8f41ae24-5f55-420b-9d2e-e07528579d51.jpg)
+
+### QRReader
+![Screenshot_20220107-165325](https://user-images.githubusercontent.com/69695537/148659995-6a6728ca-538d-41c0-93cf-6f11aac9c778.jpg)
+
 Mais fotos no futúro!
