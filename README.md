@@ -36,14 +36,6 @@ Depois salve o arquivo
 
 Pronto!
 
-Ou no celular, veja este vídeo, como já havia falado, aplica-se também a downloads de outros aplicativos, por exemplo, o Office.
-
-**Atenção!**
-Se em seu celular não aparecer direto os arquivos para download, é só clicar em "View Code"
-
-https://user-images.githubusercontent.com/69695537/148604512-1e775953-5d4b-4979-af8c-9e69e91413ba.mp4
-
-Aplica-se ao download do .AIA também
 
 ## Download do .AIA
 Você é livre para baixar e modificar (seguindo as regras) o Navegador Slither Papa, como também, é o único modificavel. 
