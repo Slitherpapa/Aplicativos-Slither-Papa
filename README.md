@@ -35,6 +35,11 @@ Depois salve o arquivo
 ![Captura de tela 2022-01-06 175650](https://user-images.githubusercontent.com/69695537/148452626-38f6d7c3-1263-4379-96b0-efc69ab01e5a.png)
 
 Pronto!
+Ou no celular, veja este vídeo, como já havia falado, aplica-se também a downloads de outros aplicativos, por exemplo, o Office.
+
+https://user-images.githubusercontent.com/69695537/148660306-645821b9-d420-4a20-a605-2a4a8c25b959.mp4
+
+Aplica-se ao download do .AIA também
 
 
 ## Download do .AIA
