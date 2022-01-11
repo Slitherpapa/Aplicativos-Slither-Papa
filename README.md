@@ -42,7 +42,7 @@ Pronto!
 
 ## Download do aplicativo pelo celular
 Ou no celular, veja este vídeo, como já havia falado, aplica-se também a downloads de outros aplicativos, por exemplo, o Office. 
-[**Clique aqui**](https://github.com/Slitherpapa/Aplicativos-Slither-Papa/releases) para ir até a página "Releases".
+[**Clique aqui para ir até a página "Releases"**](https://github.com/Slitherpapa/Aplicativos-Slither-Papa/releases).
 
 https://user-images.githubusercontent.com/69695537/148660306-645821b9-d420-4a20-a605-2a4a8c25b959.mp4
 
