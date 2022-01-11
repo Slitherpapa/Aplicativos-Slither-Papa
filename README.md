@@ -11,7 +11,9 @@ Este aplicativo poderá receber updates tanto visuais, quanto a de seu uso. Voc�
 O app foi desenvolvido com um IDE chamado Kodular, que e um low-code ótimo, recomendo usar.
 
 ## Download do aplicativo pelo celular
-Ou no celular, veja este vídeo, como já havia falado, aplica-se também a downloads de outros aplicativos, por exemplo, o Office. 
+Este vídeo aplicam-se aos downloads de TODOS os apps.
+
+Ou no celular, veja este vídeo, como já havia falado, aplica-se também a downloads de outros aplicativos, por exemplo, o Office ou o navegador. 
 
 https://user-images.githubusercontent.com/69695537/148660306-645821b9-d420-4a20-a605-2a4a8c25b959.mp4
 
