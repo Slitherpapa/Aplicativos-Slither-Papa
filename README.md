@@ -3,6 +3,7 @@
 Aqui é lugar onde encontra todos os apps Slither Papa!
 
 Quer baixar pelo celular? [clique aqui](https://github.com/Slitherpapa/Aplicativos-Slither-Papa#download-do-aplicativo)
+
 Quer baixar pelo computador? [clique aqui](https://github.com/Slitherpapa/Aplicativos-Slither-Papa/blob/main/README.md#download-do-aplicativo-no-celular).
 
 ## Updates
