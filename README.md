@@ -50,9 +50,9 @@ Depois salve o arquivo.
 Pronto!
 
 ## Download do .AIA
-Você é livre para baixar e modificar (seguindo as regras) o Navegador Slither Papa, como também, é o único modificavel. 
+Você é livre para baixar e modificar (seguindo as regras) o Navegador Slither Papa ou o Gerador de senhas Slither Papa
 
-Lembrando que o app é de minha autoria, ou seja, se copiar, pode receber "Strike". Você pode inspirar-se no app, ou criando uma versão melhor e publicando na parte "issues" aqui no GitHub. 
+Lembrando que o app é de minha autoria, ou seja, se copiar, pode receber "Strike". Você pode inspirar-se no app, ou criando uma versão melhor e publicando na parte "issues" ou mandando um "Pull Request" aqui no GitHub. 
 
 Como pode ver, o arquivo está em ".slitheraia", que foi uma forma de segurança minha para distribuição, mas você pode renomear depois para ".aia".
 
