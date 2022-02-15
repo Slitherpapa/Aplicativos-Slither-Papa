@@ -19,6 +19,8 @@ A fonte poderá ser utilizada sem restrições, seguindo regras:
 - Me informar de publicações/pacote baseadas em minha fonte em "Pull Requests" aqui no Github
 - Me informar de alterações sobre melhorias/correções de meu código na parte "Issues" aqui no Github
 
+Você poderá utilizar esta licença em seu aplicativos baixando o "MANIFEST (OpenLIC)" e colocando junto com o pacote/modificação de meus apps/fonte. Esta é uma forma de certificação para saber que está utilizando a fonte de meus apps dentro da licença OpenLIC (Como o próprio nome diz, pode ser utilizado como licença para distribuições que tiveram a fonte baseada em meu projeto, ou seja, pode ser abertamente utilizada como licença de uso)
+
 ** Para informar um uso permitido, escreva um comentário em meu canal do [Youtube](https://www.youtube.com/channel/UCo1NPKKzSMoy8pGHMAWsm7Q) aqui no GitHub na parte "issues"
 
 ## Updates
