@@ -20,6 +20,7 @@ A fonte poderá ser utilizada sem restrições, seguindo regras:
 - Me informar de alterações sobre melhorias/correções de meu código na parte "Issues" aqui no Github
 
 * Para informar um uso permitido, escreva um comentário em meu canal do [Youtube](https://www.youtube.com/channel/UCo1NPKKzSMoy8pGHMAWsm7Q) aqui no GitHub na parte "issues"
+
 ## Updates
 Este aplicativo poderá receber updates tanto visuais, quanto a de seu uso. Você pode acessar regularmente meu site para checar se há algum update.
 
