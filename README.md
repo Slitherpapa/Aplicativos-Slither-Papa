@@ -15,7 +15,7 @@ Ao usar fontes (código fonte/.AiA) com licença OpenLIC, concorda em aceitar os
 A fonte poderá ser utilizada sem restrições, seguindo regras:
 
 - Utilizar para uso próprio
-- Sempre me informar (SlitherPapa) de quaisquer publicações do pacote compilado através de minha Fonte**
+- Sempre me informar (SlitherPapa) de quaisquer alterações (pacote compilado/Alterações no código fonte)**
 - Me informar de publicações/pacote baseadas em minha fonte em "Pull Requests" aqui no Github
 - Me informar de alterações sobre melhorias/correções de meu código na parte "Issues" aqui no Github
 
