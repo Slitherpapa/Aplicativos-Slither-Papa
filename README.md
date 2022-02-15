@@ -1,11 +1,26 @@
 # Aplicativos Slither Papa
-
 Aqui é lugar onde encontra todos os apps Slither Papa!
 
 Desça a página e explore como baixar para celular/computador, updates e mais!
 
+## Licenças
+OpenLIC
+
+A OpenLIC é uma licença criada por mim (SlitherPapa), para facilitar a uso permitido e moderado de meus códigos fontes. Se um app contém a frase "OpenLIC" significa que poderá modificar e utilizar o código fonte do jeito que quiser:
+
+OpenLIC Open licence by SlitherPapa (2022)
+
+Ao usar fontes (código fonte/.AiA) com licença OpenLIC, concorda em aceitar os termos de uso da fonte.
+
+A fonte poderá ser utilizada sem restrições, seguindo regras:
+
+- Utilizar para uso próprio
+- Sempre me informar (SlitherPapa) de quaisquer publicações do pacote compilado através de minha Fonte
+- Me informar de publicações/pacote baseadas em minha fonte em "Pull Requests" aqui no Github
+- Me informar de alterações sobre melhorias/correções de meu código na parte "Issues" aqui no Github
+
 ## Updates
-Este aplicativo poderá receber updates tanto visuais, quanto a de seu uso. Você pode checar meus vídeos mais recentes para checar se há algum update.
+Este aplicativo poderá receber updates tanto visuais, quanto a de seu uso. Você pode acessar regularmente meu site para checar se há algum update.
 
 ## Criação
 O app foi desenvolvido com um IDE chamado Kodular, que e um low-code ótimo, recomendo usar.
