@@ -31,6 +31,7 @@ Este aplicativo poderá receber updates tanto visuais, quanto a de seu uso. Voc�
 
 ## Criação
 O app foi desenvolvido com um IDE chamado Kodular, que e um low-code ótimo, recomendo usar.
+Totais créditos ao Kodular!
 
 ## Download do aplicativo pelo celular
 Este vídeo aplicam-se aos downloads de TODOS os apps.
