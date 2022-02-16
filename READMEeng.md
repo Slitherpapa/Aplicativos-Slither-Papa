@@ -73,7 +73,7 @@ Then save the file.
 Ready!
 
 ## Download .AIA
-You are free to download and modify (following the rules of the OpenLIC) Slither Papa Browser or Slither Papa Password Generator
+You are free to download and modify (following the rules of the OpenLIC).
 
 Remembering that the app is my authorship, that is, if you copy it, you can receive "Strike". You can get inspiration from the app, either by creating a better version and publishing it in the "issues" section or submitting a "Pull Request" here on GitHub.
 
