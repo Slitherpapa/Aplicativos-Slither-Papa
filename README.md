@@ -77,7 +77,7 @@ Como pode ver, o arquivo está em ".slitheraia", que foi uma forma de segurança
 
 Para fazer o download, faça o mesmo processo que fez para baixar os aplicativos, só que atentando-se em baixar o ".slitheraia".
 
-Se tiver alguma dúvida [veja este vídeo](https://youtu.be/zvX2PSXVcP8)
+Se tiver alguma dúvida [veja este vídeo](https://youtu.be/ggVP1srs22c)
 
 ## Capturas de tela
 
