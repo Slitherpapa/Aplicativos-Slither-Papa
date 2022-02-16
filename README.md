@@ -6,7 +6,7 @@ Desça a página e explore como baixar para celular/computador, updates e mais!
 ## Licença
 OpenLIC
 
-A OpenLIC é uma licença criada por mim (SlitherPapa), para facilitar a uso permitido e moderado de meus códigos fontes. Se um app contém a frase "OpenLIC" significa que poderá modificar e utilizar o código fonte do jeito que quiser:
+A OpenLIC é uma licença criada por mim (SlitherPapa), para facilitar a uso permitido e moderado de meus códigos fontes. Se um app contém a frase "OpenLIC" significa que poderá modificar e utilizar o código fonte:
 
 OpenLIC Open licence by SlitherPapa (2022)
 
