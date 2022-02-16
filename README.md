@@ -19,7 +19,7 @@ A fonte poderá ser utilizada sem restrições, seguindo regras:
 - Me informar de publicações/pacote baseadas em minha fonte em "Pull Requests" aqui no Github
 - Me informar de alterações sobre melhorias/correções de meu código na parte "Issues" aqui no Github
 - Você poderá modificar do jeito que quiser, adicionando botões, textos, etc, mas sempre informando a origem do código base, que neste caso, é o meu
-- Colocar juntamente com o .AIA modificado/Pacote compilado de origem de minha fonte o MANIFESTO e meu nome (SlitherPapa) em qualquer lugar do 
+- Colocar juntamente com o .AIA modificado/Pacote compilado de origem de minha fonte o MANIFESTO com meu nome (SlitherPapa) em qualquer lugar do 
  app (Normalmente na parte de créditos)
 
 Você poderá utilizar esta licença em seu aplicativos baixando o "MANIFEST (OpenLIC)" e colocando junto com o pacote/modificação de meus apps/fonte. Esta é uma forma de certificação para saber que está utilizando a fonte de meus apps dentro da licença OpenLIC (Como o próprio nome diz, pode ser utilizado como licença para distribuições que tiveram a fonte baseada em meu projeto, ou seja, pode ser abertamente utilizada como licença de uso)
