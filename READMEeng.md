@@ -22,7 +22,7 @@ The font can be used without restrictions, following rules:
 - Put together with the modified .AIA/source compiled package from my source the MANIFEST with my name (SlitherPapa) anywhere in the
  app (Usually in the credits part)
 
-You can use this license in your apps by downloading the "MANIFEST (OpenLIC)" and putting it together with the package/modification of my apps/source. This is a form of certification to know that you are using the source of my apps under the OpenLIC license (As the name says, it can be used as a license for distributions that had the source based on my project, that is, it can be openly used as a license to use)
+You can use this license in your apps by downloading the "MANIFEST (OpenLIC)" and putting it together with the package/modification of my apps/source or by embedding the content of the manifest in any part of credits (Example: About Screen). This is a form of certification to know that you are using the source of my apps under the OpenLIC license (As the name says, it can be used as a license for distributions that had the source based on my project, that is, it can be openly used as a license to use)
 
 ** To report a permitted use, please write a comment on my [Youtube] channel(https://www.youtube.com/channel/UCo1NPKKzSMoy8pGHMAWsm7Q) here on GitHub in the "issues" part
 
