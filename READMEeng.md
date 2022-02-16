@@ -24,7 +24,7 @@ The font can be used without restrictions, following rules:
 
 You can use this license in your apps by downloading the "MANIFEST (OpenLIC)" and putting it together with the package/modification of my apps/source or by embedding the content of the manifest in any part of credits (Example: About Screen). This is a form of certification to know that you are using the source of my apps under the OpenLIC license (As the name says, it can be used as a license for distributions that had the source based on my project, that is, it can be openly used as a license to use)
 
-** To report a permitted use, please write a comment on my [Youtube](https://www.youtube.com/channel/UCo1NPKKzSMoy8pGHMAWsm7Q) here on GitHub in the "issues" part
+** To report a permitted use, please write a comment on my [Youtube](https://www.youtube.com/channel/UCo1NPKKzSMoy8pGHMAWsm7Q)chanell or here on GitHub in the "issues" part
 
 ## Updates
 This application may receive updates both visually and on its use. You can regularly visit my website to check for any updates.
