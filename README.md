@@ -4,7 +4,7 @@ Aqui é lugar onde encontra todos os apps Slither Papa!
 Desça a página e explore como baixar para celular/computador, updates e mais!
 
 ## Licença
-OpenLIC ou OLlsp (OpenLic SlitherPapa)
+OpenLIC ou OLlsp (OpenLic licence SlitherPapa)
 
 A OpenLIC é uma licença criada por mim (SlitherPapa), para facilitar a uso permitido e moderado de meus códigos fontes. Se um app contém a frase "OpenLIC" significa que poderá modificar e utilizar o código fonte:
 
