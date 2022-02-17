@@ -84,21 +84,28 @@ Se tiver alguma dúvida [veja este vídeo](https://youtu.be/CP6V-U-48G8)
 
 ## Capturas de tela
 
+### Office Slither Papa
+<img src="https://user-images.githubusercontent.com/69695537/154546082-098ea620-37d5-455f-ae78-a92c46fa163f.jpg" height="500">
+
 ### Navegador
-![Screenshot_20220105-084955 1](https://user-images.githubusercontent.com/69695537/148215944-a63fedb7-093a-4893-9c48-ec14191cfe3b.jpg)
----
-![Screenshot_20220105-084958 1](https://user-images.githubusercontent.com/69695537/148216053-b64a08b0-b80b-4140-b540-02e2ce9e4af8.jpg)
----
-![Screenshot_20220105-085004 1](https://user-images.githubusercontent.com/69695537/148216101-9d846bdb-18d2-4663-ab3a-375920ae42e2.jpg)
----
-![Screenshot_20220105-085014 1](https://user-images.githubusercontent.com/69695537/148216180-a5d72562-c5e9-4195-8f05-0b03aca9aa04.jpg)
----
-![Screenshot_20220105-085018 1](https://user-images.githubusercontent.com/69695537/148216229-fe3547c5-3869-413d-bbd8-acda39a87507.jpg)
+<img src="https://user-images.githubusercontent.com/69695537/148215944-a63fedb7-093a-4893-9c48-ec14191cfe3b.jpg" height="500">
 
 ### Lanterna
-![Screenshot_20220107-165225](https://user-images.githubusercontent.com/69695537/148659990-8f41ae24-5f55-420b-9d2e-e07528579d51.jpg)
+<img src="https://user-images.githubusercontent.com/69695537/148659990-8f41ae24-5f55-420b-9d2e-e07528579d51.jpg" height="500">
 
 ### QRReader
-![Screenshot_20220107-165325](https://user-images.githubusercontent.com/69695537/148659995-6a6728ca-538d-41c0-93cf-6f11aac9c778.jpg)
+<img src="https://user-images.githubusercontent.com/69695537/148659995-6a6728ca-538d-41c0-93cf-6f11aac9c778.jpg" height="500">
+
+### QRGenerator
+<img src="https://user-images.githubusercontent.com/69695537/154545274-f300e0d3-8d22-4df2-8f2d-35bc1d65f7f1.jpg" height="500">
+
+### Gerador de senhas Slither Papa
+<img src="https://user-images.githubusercontent.com/69695537/154545229-3890b699-1883-4c67-9daa-e32de328ecfa.jpg" height="500">
+
+### Sorteador de números Slither Papa
+<img src="https://user-images.githubusercontent.com/69695537/154545261-6d9fdf52-c96b-4f52-af1e-fe4229fcfa24.jpg" height="500">
+
+### Informações do dispositivo
+<img src="https://user-images.githubusercontent.com/69695537/154545762-415b9f35-0eef-4a4d-b914-a821caed5231.jpg" height="500">
 
 Mais fotos no futúro!
