@@ -3,6 +3,29 @@ Aqui é lugar onde encontra todos os apps Slither Papa!
 
 Desça a página e explore como baixar para celular/computador, updates e mais!
 
+## Licença
+OpenLIC ou OLlsp (OpenLic licence SlitherPapa)
+
+A OpenLIC é uma licença criada por mim (SlitherPapa), para facilitar a uso permitido e moderado de meus códigos fontes. Se um app contém a frase "OpenLIC" significa que poderá modificar e utilizar o código fonte:
+
+OpenLIC OpenLIcenCe by SlitherPapa (2022)
+
+Ao usar fontes (código fonte/.AiA) com licença OpenLIC, concorda em aceitar os termos de uso da fonte.
+
+A fonte poderá ser utilizada sem restrições, seguindo regras:
+
+- Utilizar para uso próprio
+- Sempre me informar (SlitherPapa) de quaisquer alterações (pacote compilado/Alterações no código fonte)**
+- Me informar de publicações/pacote baseadas em minha fonte em "Pull Requests" aqui no Github
+- Me informar de alterações sobre melhorias/correções de meu código na parte "Issues" aqui no Github
+- Você poderá modificar do jeito que quiser, adicionando botões, textos, etc, mas sempre informando a origem do código base, que neste caso, é o meu
+- Colocar juntamente com o .AIA modificado/Pacote compilado de origem de minha fonte o MANIFESTO com meu nome (SlitherPapa) em qualquer lugar do 
+ app (Normalmente na parte de créditos)
+
+Você poderá utilizar esta licença em seu aplicativos baixando o "MANIFEST (OpenLIC)" e colocando junto com o pacote/modificação de meus apps/fonte ou integrando o conteudo do "MANIFEST (OpenLIC)" em qualquer parte de créditos (Exemplo: Tela Sobre). Esta é uma forma de certificação para saber que está utilizando a fonte de meus apps dentro da licença OpenLIC (Como o próprio nome diz, pode ser utilizado como licença para distribuições que tiveram a fonte baseada em meu projeto, ou seja, pode ser abertamente utilizada como licença de uso)
+
+** Para informar um uso permitido, escreva um comentário em meu canal do [Youtube](https://www.youtube.com/channel/UCo1NPKKzSMoy8pGHMAWsm7Q) aqui no GitHub na parte "issues"
+
 ## Download dos aplicativos pelo celular
 Este vídeo aplicam-se aos downloads de TODOS os apps.
 
@@ -41,29 +64,6 @@ Depois salve o arquivo.
 ![Captura de tela 2022-01-06 175650](https://user-images.githubusercontent.com/69695537/148452626-38f6d7c3-1263-4379-96b0-efc69ab01e5a.png)
 
 Pronto!
-
-## Licença
-OpenLIC ou OLlsp (OpenLic licence SlitherPapa)
-
-A OpenLIC é uma licença criada por mim (SlitherPapa), para facilitar a uso permitido e moderado de meus códigos fontes. Se um app contém a frase "OpenLIC" significa que poderá modificar e utilizar o código fonte:
-
-OpenLIC OpenLIcenCe by SlitherPapa (2022)
-
-Ao usar fontes (código fonte/.AiA) com licença OpenLIC, concorda em aceitar os termos de uso da fonte.
-
-A fonte poderá ser utilizada sem restrições, seguindo regras:
-
-- Utilizar para uso próprio
-- Sempre me informar (SlitherPapa) de quaisquer alterações (pacote compilado/Alterações no código fonte)**
-- Me informar de publicações/pacote baseadas em minha fonte em "Pull Requests" aqui no Github
-- Me informar de alterações sobre melhorias/correções de meu código na parte "Issues" aqui no Github
-- Você poderá modificar do jeito que quiser, adicionando botões, textos, etc, mas sempre informando a origem do código base, que neste caso, é o meu
-- Colocar juntamente com o .AIA modificado/Pacote compilado de origem de minha fonte o MANIFESTO com meu nome (SlitherPapa) em qualquer lugar do 
- app (Normalmente na parte de créditos)
-
-Você poderá utilizar esta licença em seu aplicativos baixando o "MANIFEST (OpenLIC)" e colocando junto com o pacote/modificação de meus apps/fonte ou integrando o conteudo do "MANIFEST (OpenLIC)" em qualquer parte de créditos (Exemplo: Tela Sobre). Esta é uma forma de certificação para saber que está utilizando a fonte de meus apps dentro da licença OpenLIC (Como o próprio nome diz, pode ser utilizado como licença para distribuições que tiveram a fonte baseada em meu projeto, ou seja, pode ser abertamente utilizada como licença de uso)
-
-** Para informar um uso permitido, escreva um comentário em meu canal do [Youtube](https://www.youtube.com/channel/UCo1NPKKzSMoy8pGHMAWsm7Q) aqui no GitHub na parte "issues"
 
 ## Updates
 Este aplicativo poderá receber updates tanto visuais, quanto a de seu uso. Você pode acessar regularmente meu site para checar se há algum update.
