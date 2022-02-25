@@ -14,6 +14,34 @@ https://user-images.githubusercontent.com/69695537/148660306-645821b9-d420-4a20-
 
 Aplica-se ao download do .AIA também.
 
+## Download do aplicativo pelo Computador
+Você poderá baixar utilizando estes passos a baixo.
+
+Aplica-se ao download do .AIA também.
+
+**Atenção**:
+
+Estas imagens aplicam-se aos downloads de TODOS os apps.
+
+Entre na página inicial e clique na aba "<>Code", e depois clique em "Releases".
+![Captura de tela 2022-01-06 175032](https://user-images.githubusercontent.com/69695537/148452371-d55bb17b-2c94-4124-be06-988eea2166d6.png)
+
+Depois clique em no aplicativo que quer baixar, por exemplo, o Office, então desço a página e procuro pela versão mais recente do Office Slither Papa (Aplica-se a outros downloads da página, como .AIAs).
+![Captura de tela 2022-01-07 164610](https://user-images.githubusercontent.com/69695537/148600163-71f2b4ad-bf1e-4b28-9806-4c89c1c3088f.png)
+
+Se esta página estiver assim.
+![Captura de tela 2022-01-07 164610](https://user-images.githubusercontent.com/69695537/148600866-e4e09c0a-0d37-4fd1-aa4f-c63e56d714cf.png)
+![Captura de tela 2022-01-07 170224](https://user-images.githubusercontent.com/69695537/148600844-6f349ea2-daef-4c98-93cd-c39bc9e7c732.png)
+
+
+Clique em "Assets" para expandir, e clique no .apk que quiser, de preferência o mais recente.
+![Captura de tela 2022-01-07 170248](https://user-images.githubusercontent.com/69695537/148600849-765a623f-bb2c-4175-a544-681552209a46.png)
+
+Depois salve o arquivo.
+![Captura de tela 2022-01-06 175650](https://user-images.githubusercontent.com/69695537/148452626-38f6d7c3-1263-4379-96b0-efc69ab01e5a.png)
+
+Pronto!
+
 ## Licença
 OpenLIC ou OLlsp (OpenLic licence SlitherPapa)
 
@@ -43,34 +71,6 @@ Este aplicativo poderá receber updates tanto visuais, quanto a de seu uso. Voc�
 ## Criação
 O app foi desenvolvido com um IDE chamado Kodular, que e um low-code ótimo, recomendo usar.
 Totais créditos ao Kodular!
-
-## Download do aplicativo pelo Computador
-Você poderá baixar utilizando estes passos a baixo.
-
-Aplica-se ao download do .AIA também.
-
-**Atenção**:
-
-Estas imagens aplicam-se aos downloads de TODOS os apps.
-
-Entre na página inicial e clique na aba "<>Code", e depois clique em "Releases".
-![Captura de tela 2022-01-06 175032](https://user-images.githubusercontent.com/69695537/148452371-d55bb17b-2c94-4124-be06-988eea2166d6.png)
-
-Depois clique em no aplicativo que quer baixar, por exemplo, o Office, então desço a página e procuro pela versão mais recente do Office Slither Papa (Aplica-se a outros downloads da página, como .AIAs).
-![Captura de tela 2022-01-07 164610](https://user-images.githubusercontent.com/69695537/148600163-71f2b4ad-bf1e-4b28-9806-4c89c1c3088f.png)
-
-Se esta página estiver assim.
-![Captura de tela 2022-01-07 164610](https://user-images.githubusercontent.com/69695537/148600866-e4e09c0a-0d37-4fd1-aa4f-c63e56d714cf.png)
-![Captura de tela 2022-01-07 170224](https://user-images.githubusercontent.com/69695537/148600844-6f349ea2-daef-4c98-93cd-c39bc9e7c732.png)
-
-
-Clique em "Assets" para expandir, e clique no .apk que quiser, de preferência o mais recente.
-![Captura de tela 2022-01-07 170248](https://user-images.githubusercontent.com/69695537/148600849-765a623f-bb2c-4175-a544-681552209a46.png)
-
-Depois salve o arquivo.
-![Captura de tela 2022-01-06 175650](https://user-images.githubusercontent.com/69695537/148452626-38f6d7c3-1263-4379-96b0-efc69ab01e5a.png)
-
-Pronto!
 
 ## Download do .AIA
 Você é livre para baixar e modificar (seguindo as regras do OpenLIC).
