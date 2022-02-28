@@ -109,7 +109,7 @@ Se tiver alguma dúvida [veja este vídeo](https://youtu.be/CP6V-U-48G8)
 <img src="https://user-images.githubusercontent.com/69695537/154545762-415b9f35-0eef-4a4d-b914-a821caed5231.jpg" height="500">
 
 ### Projetos do Kodular
-<img src="https://user-images.githubusercontent.com/69695537/155712244-38387415-d6a6-47f0-86d2-deca1635461b.png" height="500">
+<img src="https://user-images.githubusercontent.com/69695537/155712244-38387415-d6a6-47f0-86d2-deca1635461b.png" height="200">
 
 
 Mais fotos no futúro!
