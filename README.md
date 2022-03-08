@@ -83,6 +83,8 @@ Se tiver alguma dúvida [veja este vídeo](https://youtu.be/CP6V-U-48G8)
 
 ## Capturas de tela
 
+*Alguns aplicativos podem ter a interface mudada
+
 ### Office Slither Papa
 <img src="https://user-images.githubusercontent.com/69695537/154546082-098ea620-37d5-455f-ae78-a92c46fa163f.jpg" height="500">
 
