@@ -84,7 +84,7 @@ Se tiver alguma dúvida [veja este vídeo](https://youtu.be/CP6V-U-48G8)
 
 ## Permissões
 
-- Câmera: QRReader SlitherPapa (Para escanear o QR Code), Lanterna Slither Papa (Ligar ou desligar o flash) e SlitherPapa 2.0 (Também, será pedida se algum site pedir o acesso a câmera)
+- Câmera: QRReader SlitherPapa (Para escanear o QR Code), Lanterna Slither Papa (Ligar ou desligar o flash) e Navegador SlitherPapa 2.0 (Também, será pedida se algum site pedir o acesso a câmera)
 
 - Internet: QRGenerator SlitherPapa (Para baixar e gerar o QR Code) e QRReader SlitherPapa (Para baixar QR Code)
 
