@@ -86,7 +86,7 @@ Se tiver alguma dúvida [veja este vídeo](https://youtu.be/CP6V-U-48G8)
 
 - Câmera: QRReader SlitherPapa (Para escanear o QR Code), Lanterna Slither Papa (Ligar ou desligar o flash) e Navegador SlitherPapa 2.0 (Também, será pedida se algum site pedir o acesso a câmera)
 
-- Internet: QRGenerator SlitherPapa (Para baixar e gerar o QR Code) e QRReader SlitherPapa (Para baixar QR Code)
+- Internet: QRGenerator SlitherPapa (Para baixar e gerar o QR Code), QRReader SlitherPapa (Para baixar QR Code), Navegador SlitherPapa 2.0 e Navegador Slither Papa (Para acessar a internet)
 
 - Local: Navegador SlitherPapa 2.0 (Usada para acesso em sites que necsessitam o sensor de GPS, recomendado negar a permissão se não for utilizar)
 
