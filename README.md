@@ -84,12 +84,17 @@ Se tiver alguma dúvida [veja este vídeo](https://youtu.be/CP6V-U-48G8)
 
 ## Permissões
 
-Câmera: QRReader SlitherPapa (Para escanear o QR Code), Lanterna Slither Papa (Ligar ou desligar o flash) e SlitherPapa 2.0 (Também, será pedida se algum site pedir o acesso a câmera)
-Internet: QRGenerator SlitherPapa (Para baixar e gerar o QR Code) e QRReader SlitherPapa (Para baixar QR Code)
-Local: Navegador SlitherPapa 2.0 (Usada para acesso em sites que necsessitam o sensor de GPS, recomendado negar a permissão se não for utilizar)
-Memória: Navegador SlitherPapa 2.0 (Para armazenar os Downloads), QRReader (Para baixar o QR Code)
-Telefone: Informações da bateria Slither Papa (A permissão só aparece por causa do componente do kodular Device Utilities, que é usado para copiar o texto das informações da bateria, não utilizado. Recomendado negar a permissão se pedir)
-Microfone: Navegador SlitherPapa 2.0 (Também, será pedida se algum site pedir o acesso ao microfone)
+- Câmera: QRReader SlitherPapa (Para escanear o QR Code), Lanterna Slither Papa (Ligar ou desligar o flash) e SlitherPapa 2.0 (Também, será pedida se algum site pedir o acesso a câmera)
+
+- Internet: QRGenerator SlitherPapa (Para baixar e gerar o QR Code) e QRReader SlitherPapa (Para baixar QR Code)
+
+- Local: Navegador SlitherPapa 2.0 (Usada para acesso em sites que necsessitam o sensor de GPS, recomendado negar a permissão se não for utilizar)
+
+- Memória: Navegador SlitherPapa 2.0 (Para armazenar os Downloads), QRReader (Para baixar o QR Code)
+
+- Telefone: Informações da bateria Slither Papa (A permissão só aparece por causa do componente do kodular Device Utilities, que é usado para copiar o texto das informações da -bateria, não utilizado. Recomendado negar a permissão se pedir)
+
+- Microfone: Navegador SlitherPapa 2.0 (Também, será pedida se algum site pedir o acesso ao microfone)
 
 ## Capturas de tela
 
