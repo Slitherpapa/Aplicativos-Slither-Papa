@@ -88,7 +88,7 @@ Se tiver alguma dúvida [veja este vídeo](https://youtu.be/CP6V-U-48G8)
 
 - Internet: QRGenerator SlitherPapa (Para baixar e gerar o QR Code), QRReader SlitherPapa (Para baixar QR Code), Navegador SlitherPapa 2.0 e Navegador Slither Papa (Para acessar a internet)
 
-- Local: Navegador SlitherPapa 2.0 (Usada para acesso em sites que necsessitam o sensor de GPS, recomendado negar a permissão se não for utilizar)
+- Local: Navegador SlitherPapa 2.0 (Usada para acesso em sites que nescessitam o sensor de GPS, recomendado negar a permissão se não for utilizar)
 
 - Memória: Navegador SlitherPapa 2.0 (Para armazenar os Downloads), QRReader (Para baixar o QR Code)
 
