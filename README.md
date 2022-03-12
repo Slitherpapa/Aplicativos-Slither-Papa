@@ -73,7 +73,7 @@ O app foi desenvolvido com um IDE chamado Kodular, que e um low-code ótimo, rec
 Totais créditos ao Kodular!
 
 ## Download do .AIA
-O download legal do .aia/.slitheraia pode ser usado legalmente através da licença OpenLIC, clique [aqui](https://github.com/Slitherpapa/Aplicativos-Slither-Papa/blob/releases10/MANIFEST%20(OpenLIC)) para mais informações.
+O download legal do .aia/.slitheraia pode ser usado legalmente através da licença OpenLIC, clique [aqui](https://github.com/Slitherpapa/Aplicativos-Slither-Papa/blob/main/MANIFESTOpenLIC) para mais informações.
 
 Como pode ver, o arquivo está em ".slitheraia", que foi uma forma de segurança minha para distribuição, mas você pode renomear depois para ".aia".
 
