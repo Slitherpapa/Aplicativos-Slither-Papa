@@ -93,7 +93,7 @@ Se tiver alguma dúvida [veja este vídeo](https://youtu.be/CP6V-U-48G8)
 
 - Memória: Navegador SlitherPapa 2.0 (Para armazenar os Downloads), QRReader (Para baixar o QR Code)
 
-- Telefone: Informações da bateria Slither Papa (A permissão só aparece por causa do componente do kodular Device Utilities, que é usado para copiar o texto das informações do telefone (IMEI), mas é não utilizado. Recomendado negar a permissão se pedir)
+- Telefone: Informações da bateria Slither Papa e Notas Slither Papa(A permissão só aparece por causa do componente do kodular Device Utilities, que é usado para copiar o texto das informações do telefone (IMEI), mas é não utilizado. Recomendado negar a permissão se pedir)
 
 - Microfone: Navegador SlitherPapa 2.0 (Também, será pedida se algum site pedir o acesso ao microfone)
 
