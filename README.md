@@ -76,11 +76,7 @@ Totais créditos ao Kodular!
 ## Download do .AIA
 O download legal do .aia/.slitheraia pode ser usado legalmente através da licença OpenLIC, clique [aqui](https://github.com/Slitherpapa/Aplicativos-Slither-Papa/blob/main/MANIFESTOpenLIC) para mais informações.
 
-**Como pode ver, o arquivo está em ".slitheraia", que foi uma forma de segurança minha para distribuição, mas você pode renomear depois para ".aia".**
-
-**Para fazer o download, faça o mesmo processo que fez para baixar os aplicativos, só que atentando-se em baixar o ".slitheraia".**
-
-**Se tiver alguma dúvida [veja este vídeo](https://youtu.be/CP6V-U-48G8)**
+**Se tiver alguma dúvida (desatualizado, agora pode baixar o .aia sem renomear para .aia de novo!) [veja este vídeo](https://youtu.be/CP6V-U-48G8)**
 
 
 ## Permissões
