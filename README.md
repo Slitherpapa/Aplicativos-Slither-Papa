@@ -4,6 +4,7 @@ Aqui é lugar onde encontra todos os apps Slither Papa!
 Desça a página e explore como baixar para celular/computador, updates e mais!
 
 Procurando códigos-fonte para utilizar livremente? Clique [aqui](https://github.com/Slitherpapa/Aplicativos-Slither-Papa-para-desenvolvedores).
+Procurando o Pckge? Clique [aqui](https://github.com/Slitherpapa/Pckge)
 
 ## Licença
 OpenLIC ou OLlsp (OpenLic licence SlitherPapa)
