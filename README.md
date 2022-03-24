@@ -127,4 +127,4 @@ O download legal do .aia/.slitheraia pode ser usado legalmente através da licen
 <img src="https://user-images.githubusercontent.com/69695537/155712244-38387415-d6a6-47f0-86d2-deca1635461b.png" height="200">
 
 
-Mais fotos no futúro!
+Mais fotos no futúro
