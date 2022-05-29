@@ -1,4 +1,7 @@
 # Aplicativos Slither Papa
+
+**Descontinuado**
+
 Aqui é lugar onde encontra todos os apps Slither Papa!
 
 Desça a página e explore como baixar para celular/computador, updates e mais!
