@@ -11,7 +11,7 @@ Procurando códigos-fonte para utilizar livremente? Clique [aqui](https://github
 
 Procurando o Pckge? Clique [aqui](https://github.com/Slitherpapa/Pckge)
 
-**Projetos descontinuados: Navegador SlitherPapa 2.0 e Navegador Slither Papa. <br> Novo projeto melhorado e atualizado: IcoBrowser. clique [aqui](https://github.com/Slitherpapa/Ico-browser) para ir na página do novo navegador**
+**Novo projeto melhorado e atualizado: IcoBrowser. clique [aqui](https://github.com/Slitherpapa/Ico-browser) para ir na página do novo navegador**
 
 **Agora os apps que podiam ser baixados separadamente só estão disponiveis no Office Slither Papa**
 
