@@ -36,7 +36,10 @@ A fonte poderá ser utilizada sem restrições, seguindo regras:
 
 Você poderá utilizar esta licença em seu aplicativos baixando o "MANIFEST (OpenLIC)" e colocando junto com o pacote/modificação de meus apps/fonte ou integrando o conteudo do "MANIFEST (OpenLIC)" em qualquer parte de créditos (Exemplo: Tela Sobre). Esta é uma forma de certificação para saber que está utilizando a fonte de meus apps dentro da licença OpenLIC (Como o próprio nome diz, pode ser utilizado como licença para distribuições que tiveram a fonte baseada em meu projeto, ou seja, pode ser abertamente utilizada como licença de uso)
 
+### Observações:
+
 ** Para informar um uso permitido, escreva um comentário em meu canal do [Youtube](https://www.youtube.com/channel/UCo1NPKKzSMoy8pGHMAWsm7Q) aqui no GitHub na parte "Pull Requests" (É necessário ter uma conta no github)
+
 ## Download dos aplicativos pelo celular
 Este vídeo aplicam-se aos downloads de TODOS os apps.
 
